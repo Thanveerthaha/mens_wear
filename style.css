@@ -1,0 +1,81 @@
+#j{
+    margin-left: 50px;
+  }
+  #i{
+    margin-left: 50px;
+  }
+#s{
+  padding: 50px;
+
+}
+  #h{
+    margin-left: 100px;
+    
+  }
+  #g{
+    background-color: black;
+    
+  }
+footer{
+  margin-top: 50px;
+  background-color: black;
+}
+  .accordion{
+    margin-top: 50px;
+   }
+
+  #f{
+    margin-top: 50px;
+    background-image: radial-gradient( circle farthest-corner at 92.3% 71.5%,  rgba(83,138,214,1) 0%, rgba(134,231,214,1) 90% );
+  }
+  #e{
+    background-image: radial-gradient( circle farthest-corner at 92.3% 71.5%,  rgba(83,138,214,1) 0%, rgba(134,231,214,1) 90% );
+  }
+  #d{
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    height: 900px;
+  }
+.card-img-top{
+  height: 200px;
+}
+.a3{
+  margin-top: 20px;
+}
+
+#a{
+    background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+
+}
+.fas{
+    color: cornflowerblue;
+}
+.a1{
+    margin-left: 500px;
+    margin-top: -330px;
+}
+#h1{
+    margin-left: 80px;
+}
+.a2{
+    margin-left: 1100px;
+    margin-top: -340px;
+}
+#contain{
+    height: 850px;
+    background: #2C3E50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FD746C, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FD746C, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin-top: 50px;
+
+}
+
+.container{
+  height: 800px;
+ 
+  
+}
+
+.d-block{
+  height: 800px;
+}
